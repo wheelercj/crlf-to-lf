@@ -40,6 +40,7 @@ file_suffixes_to_include = [
     ".py",
     ".rst",
     ".sql",
+    ".svg",
     ".tmpl",
     ".toml",
     ".txt",
